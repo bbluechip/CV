@@ -11,7 +11,7 @@
     |-- hobbies.html 
     |-- images       
     |   |-- samurai.png 
-    |   `-- samurai.webp
+    |   |-- samurai.webp
     |-- index.html      
     |-- why.html   
 ```
